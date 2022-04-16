@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = caosen.cn@gmail.com
+	name = Sen Cao
